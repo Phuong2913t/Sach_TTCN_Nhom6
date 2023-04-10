@@ -1,0 +1,16 @@
+F:\C#\VDc1\Songuyento\bin\Debug\net5.0\Songuyento.exe
+F:\C#\VDc1\Songuyento\bin\Debug\net5.0\Songuyento.deps.json
+F:\C#\VDc1\Songuyento\bin\Debug\net5.0\Songuyento.runtimeconfig.json
+F:\C#\VDc1\Songuyento\bin\Debug\net5.0\Songuyento.runtimeconfig.dev.json
+F:\C#\VDc1\Songuyento\bin\Debug\net5.0\Songuyento.dll
+F:\C#\VDc1\Songuyento\bin\Debug\net5.0\Songuyento.pdb
+F:\C#\VDc1\Songuyento\obj\Debug\net5.0\Songuyento.csproj.AssemblyReference.cache
+F:\C#\VDc1\Songuyento\obj\Debug\net5.0\Songuyento.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\VDc1\Songuyento\obj\Debug\net5.0\Songuyento.AssemblyInfoInputs.cache
+F:\C#\VDc1\Songuyento\obj\Debug\net5.0\Songuyento.AssemblyInfo.cs
+F:\C#\VDc1\Songuyento\obj\Debug\net5.0\Songuyento.csproj.CoreCompileInputs.cache
+F:\C#\VDc1\Songuyento\obj\Debug\net5.0\Songuyento.dll
+F:\C#\VDc1\Songuyento\obj\Debug\net5.0\refint\Songuyento.dll
+F:\C#\VDc1\Songuyento\obj\Debug\net5.0\Songuyento.pdb
+F:\C#\VDc1\Songuyento\obj\Debug\net5.0\Songuyento.genruntimeconfig.cache
+F:\C#\VDc1\Songuyento\obj\Debug\net5.0\ref\Songuyento.dll

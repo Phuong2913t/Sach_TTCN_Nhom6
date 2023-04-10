@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6ypLptgJAeZXha6CRLl3t6So1gtd0Ns0dpsWPKhrBR9ZZhCn7P30A8Zpobc0o2auZ5jyiOyIkrl0szRC/2vdTg==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\VDc1\\Songuyento\\Songuyento.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

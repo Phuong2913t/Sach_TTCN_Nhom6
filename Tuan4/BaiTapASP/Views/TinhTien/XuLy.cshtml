@@ -1,0 +1,39 @@
+﻿
+@{
+    ViewBag.Title = "XuLy";
+}
+
+<style>
+    table th, td {
+        text-align: center;
+        padding: 5px;
+        border: 1px solid;
+    }
+</style>
+<h2>2020602360</h2>
+<form>
+    <table>
+        <th colspan="2">
+            Bảng lương
+        </th>
+        <tr>
+            <td>Mã NV</td>
+            <td>
+                @ViewBag.id
+            </td>
+        </tr>
+        <tr>
+            <td>Có ngày công</td>
+            <td>
+                @ViewBag.day
+            </td>
+        </tr>
+        <tr>
+            <td>Tiền được lĩnh là</td>
+            <td>
+                @ViewBag.tong
+            </td>
+        </tr>
+    </table>
+</form>
+

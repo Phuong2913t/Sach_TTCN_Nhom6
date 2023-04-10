@@ -1,0 +1,64 @@
+﻿
+@{
+    ViewBag.Title = "NhapDiem";
+}
+
+<style>
+    table th, td {
+        text-align:center;
+        padding: 5px;
+        border:1px solid;
+
+    }
+</style>
+<h2>2020602360</h2>
+<form action="/NhapDiemThi/XuLy" method="post">
+    <table>
+        <th colspan="3">
+            Nhap Diem Thi
+        </th>
+        <tr>
+            <td>Ho ten thi sinh</td>
+            <td>
+                <input type="text" name="name" />
+            </td>
+            <td>
+                <input type="checkbox" name="type" value="Gia dinh chinh sach" />Gia dinh chinh sach
+            </td>
+        </tr>
+        <tr>
+            <td>Chon khu vuc</td>
+            <td colspan="2">
+                <select width="300px" name="address">
+                    <option value="Khu vuc A">Khu vuc A</option>
+                    <option value="Khu vuc B">Khu vuc B</option>
+                    <option value="Khu vuc C">Khu vuc C</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td>Vao diem Toan</td>
+            <td colspan="2">
+                <input type="text" name="toan" />
+            </td>
+        </tr>
+        <tr>
+            <td>Vao diem Ly</td>
+            <td colspan="2">
+                <input type="text" name="ly" />
+            </td>
+        </tr>
+        <tr>
+            <td>Vao diem Hoa</td>
+            <td colspan="2">
+                <input type="text" name="hoa" />
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <input type="submit" name="tinh" value="Tinh" Acti/>
+            </td>
+            
+        </tr>
+    </table>
+</form>

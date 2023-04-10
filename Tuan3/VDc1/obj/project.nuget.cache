@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "27D6pYo8pMnEDebCuc7jto35QQQLleYHwNShHTNPLh+nixJXSi1x/Bqs1KAeDhd9QEx51ZfHUZ0dU06PR2ve0w==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\VDc1\\VDc1\\VDc1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

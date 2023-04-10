@@ -1,0 +1,16 @@
+F:\C#\VDc1\7ngay\bin\Debug\net5.0\7ngay.exe
+F:\C#\VDc1\7ngay\bin\Debug\net5.0\7ngay.deps.json
+F:\C#\VDc1\7ngay\bin\Debug\net5.0\7ngay.runtimeconfig.json
+F:\C#\VDc1\7ngay\bin\Debug\net5.0\7ngay.runtimeconfig.dev.json
+F:\C#\VDc1\7ngay\bin\Debug\net5.0\7ngay.dll
+F:\C#\VDc1\7ngay\bin\Debug\net5.0\7ngay.pdb
+F:\C#\VDc1\7ngay\obj\Debug\net5.0\7ngay.csproj.AssemblyReference.cache
+F:\C#\VDc1\7ngay\obj\Debug\net5.0\7ngay.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\VDc1\7ngay\obj\Debug\net5.0\7ngay.AssemblyInfoInputs.cache
+F:\C#\VDc1\7ngay\obj\Debug\net5.0\7ngay.AssemblyInfo.cs
+F:\C#\VDc1\7ngay\obj\Debug\net5.0\7ngay.csproj.CoreCompileInputs.cache
+F:\C#\VDc1\7ngay\obj\Debug\net5.0\7ngay.dll
+F:\C#\VDc1\7ngay\obj\Debug\net5.0\refint\7ngay.dll
+F:\C#\VDc1\7ngay\obj\Debug\net5.0\7ngay.pdb
+F:\C#\VDc1\7ngay\obj\Debug\net5.0\7ngay.genruntimeconfig.cache
+F:\C#\VDc1\7ngay\obj\Debug\net5.0\ref\7ngay.dll

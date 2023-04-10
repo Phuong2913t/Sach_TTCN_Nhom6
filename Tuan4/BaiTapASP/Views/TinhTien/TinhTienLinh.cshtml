@@ -1,0 +1,71 @@
+﻿
+@{
+    ViewBag.Title = "TinhTienLinh";
+}
+
+<h2>2020602360</h2>
+<style>
+    table th, td {
+        text-align: center;
+        padding: 5px;
+        border: 1px solid;
+    }
+</style>
+<form action="/TinhTien/XuLy" method="post">
+    <table>
+        <th colspan="2">
+            Tinh Tien Luong
+        </th>
+        <tr>
+            <td>Mã NV</td>
+            <td>
+                <input type="text" name="id" />
+            </td>
+        </tr>
+        <tr>
+            <td>Bậc lương</td>
+            <td>
+                <input type="text" name="salary" />
+            </td>
+        </tr>
+        <tr>
+            <td>Ngày công</td>
+            <td>
+                <input type="text" name="sum" />
+            </td>
+        </tr>
+        <tr>
+            <td>Chuc vu</td>
+            <td>
+                <select name="level">
+                    <option value="Trưởng phòng">Trưởng phòng</option>
+                    <option value="Phó phòng">Phó phòng</option>
+                    <option value="Nhân viên">Nhân viên</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td>Giới tính</td>
+            <td>
+                <input type="radio" name="gender" value="Nam" />Nam
+                <input type="radio" name="gender" value="Nữ" />Nu
+            </td>
+        </tr>
+        <tr>
+            <td>Ngoại ngữ</td>
+            <td>
+                <input type="checkbox" name="speak" value="Anh" />Anh
+                <input type="checkbox" name="spaek" value="Phap" />Phap
+                <input type="checkbox" name="spaek" value="Nga" />Nga
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <input type="submit" name="tinh" value="Tinh" />
+                <input type="submit" name="xoa" value="Xoa" />
+            </td>
+
+        </tr>
+       
+    </table>
+</form>
